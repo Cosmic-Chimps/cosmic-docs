@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cosmic Chimps Documentation
 
 You can use the [editor on GitHub](https://github.com/Cosmic-Chimps/docs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
