@@ -3,6 +3,7 @@
 
 
 - Fork and Clone repository
+- `cd cosmic-docs/docs`
 - Install dependencies:
 ```
 python3 -m pip install --upgrade pip     # install pip
