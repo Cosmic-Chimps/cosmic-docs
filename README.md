@@ -15,4 +15,4 @@ mkdocs serve
 - Edit pages & verify 
 - Make a PR to https://github.com/Cosmic-Chimps/cosmic-docs
 
-Docs will build and publish on main branch pushes 
+Docs will build and publish on main branch pushe
