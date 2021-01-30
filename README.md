@@ -4,6 +4,7 @@
 
 - Fork and Clone repository
 - `cd cosmic-docs/docs`
+- Start a Python virtual env `virtualenv <virtual-env name>`
 - Install dependencies:
 ```
 python3 -m pip install --upgrade pip     # install pip
@@ -15,4 +16,4 @@ mkdocs serve
 - Edit pages & verify 
 - Make a PR to https://github.com/Cosmic-Chimps/cosmic-docs
 
-Docs will build and publish on main branch pushe
+Docs will build and publish on main branch pushes
