@@ -1,23 +1,10 @@
 site_name: Cosmic Chimps Docs
-site_url: https://cosmic-chimps.github.io/docs/
-site_description: Project documentation with Markdown.
-site_author: MkDocs Team
-
+theme: lux
 repo_url: https://github.com/Cosmic-Chimps/docs
-edit_uri: ""
 
-theme:
-    name: bootstrap4
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - django
 
 nav:
-    - Home: 'index.md'
-    - 'User Guide':
-        - 'Writing your docs': 'writing-your-docs.md'
-        - 'Styling your docs': 'styling-your-docs.md'
-    - About:
-        - 'License': 'license.md'
-        - 'Release Notes': 'release-notes.md'
+    - Home: index.md
+    - About: about.md
+    - Team: team.md
+    - Workbooks: workbooks.md
