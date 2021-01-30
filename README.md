@@ -13,6 +13,6 @@ mkdocs serve
 ```
 - Go to http://localhost:8000/ 
 - Edit pages & verify 
-- Make a PR to https://github.com/Cosmic-Chimps/doc
+- Make a PR to https://github.com/Cosmic-Chimps/cosmic-docs
 
 Docs will build and publish on main branch pushes 
